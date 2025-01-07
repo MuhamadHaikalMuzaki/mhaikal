@@ -6,7 +6,7 @@ from app import total
 #Halaman Dashboard
 st.title("Aplikasi Masjid Nurul Jami") # Menampilkan Judul
 st.markdown("Selamat Datang di Aplikasi Masjid Nurul Jami") # Menampilkan Deskripsi
-st.image("Images.jpg", caption="Masjid Nurul Jami") # Menampilkan Gambar dengan caption
+st.image("Imagess.jpg", caption="Masjid Nurul Jami") # Menampilkan Gambar dengan caption
     
     
 st.title("Dashboard Kas Masjid") # Menampilkan Judul
